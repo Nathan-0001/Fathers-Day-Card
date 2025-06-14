@@ -42,13 +42,13 @@ body {
 /*Card Inner*/
 .outside,
 .inside {
-    border: 1px solid white;
     height: 100%;
     width: 50%;
     position: absolute;
     left: 50.1%;
 }
 .inside {
+    border-left: 1px solid white;
     background: linear-gradient(to right, #e0e0e0, #ffffff 30%);
     line-height: 1;
     padding: 0 20px;
