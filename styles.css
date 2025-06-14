@@ -1,5 +1,12 @@
 /*Google Font*/
 @import url('https://fonts.googleapis.com/css2?family=Savate:ital,wght@0,200..900;1,200..900&display=swap');
+/*For mobile view*/
+html {
+-moz-text-size-adjust: 100%;
+-webkit-text-size-adjust: 100%;
+text-size-adjust: 100%;
+}
+
 /*Universal selector*/
 * {
     padding: 0;
